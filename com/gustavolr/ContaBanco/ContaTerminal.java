@@ -72,7 +72,7 @@ public class ContaTerminal {
         Scanner leitor = new Scanner(System.in);
 
         // Cumprimentar usuário
-        System.out.println("Seja bem vindo a sua Conta Bancaria!");
+        System.out.println("Seja bem vindo ao JConta!");
 
         // Fazendo leitura dos dados
 
